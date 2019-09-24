@@ -1,0 +1,14 @@
+{
+  "name": "bake-sale-pos",
+  "version": "1.0.0",
+  "url": "bake-sale-pos",
+  "description": "Point-of-Sale application for school bake sales.",
+  "main": "index.js",
+  "author": "Pranav Nutalapati",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "express": "^4.16.3",
+    "mongoose": "^5.7.1"
+  }
+}
